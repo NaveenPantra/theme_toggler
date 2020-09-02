@@ -51,7 +51,8 @@ body {
   align-items: center;
   justify-content: center;
   position: relative;
-  border-radius: 50px;
+  padding: .7rem;
+  border-radius: 10rem;
   width: 200px;
   height: 80px;
   border: var(--border-1);
